@@ -1,0 +1,3 @@
+Yusuf Can İbişoğlu 195050021 Mobile Programming
+
+-- It is an flutter app it is not completed it need more detail to add but basicly I build the app.
